@@ -1,0 +1,16 @@
+body{
+    background: url(https://i.pinimg.com/originals/a4/98/4b/a4984b508f314d8aa94d0d86e4d32f46.jpg);
+}
+
+#navber{
+    background-color: rgba(0, 0, 0, 0.548);
+    padding: 30px;
+    text-align: center;
+}
+.contt{
+    text-decoration: solid;
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
